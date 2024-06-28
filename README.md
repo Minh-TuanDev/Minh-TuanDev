@@ -45,7 +45,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
     <img src="https://skillicons.dev/icons?i=c"  alt="Dev C" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/apache-netbeans.png" alt="Apache NetBeans" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="50" height="50"/>
 </div>
 
