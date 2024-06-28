@@ -7,18 +7,18 @@
 <br/>
 
 ## 👀 Interests
-- **Web Development**: Passionate about creating dynamic and responsive websites using the latest technologies. Always exploring new frameworks and tools to improve the user experience.
-- **Machine Learning**: Enthusiastic about leveraging data to build intelligent systems. Interested in the applications of machine learning in various fields such as healthcare, finance, and automation.
-- **Open Source Contribution**: Active in the open source community. Enjoy contributing to projects that solve real-world problems and collaborating with developers from around the globe.
-
+- **Web Development**
+- **Machine Learning**
+- **Open Source Contribution**
+  
 ## 🌱 Currently Learning
 - **Advanced React and Next.js**: Diving deep into advanced concepts of React and Next.js to build high-performance and scalable web applications.
 - **.NET CORE, ASP.NET CORE, ASP.NET API CORE**: Learning the ins and outs of the .NET ecosystem to develop robust backend services and APIs.
 - **Deeply learning Java**: Focused on mastering advanced Java programming concepts and building enterprise-level applications.
 
 ## 💞️ Collaboration
-- **Open Source Projects**: Always open to collaborating on open source projects. Believe in the power of collective effort and the sharing of knowledge to drive innovation.
-- **Community Events**: Love participating in community events such as hackathons, meetups, and coding bootcamps. Enjoy networking with fellow developers and learning from their experiences.
+- **Open Source Projects**
+- **Community Events**
 
 ## 📫 How to Reach Me
 - Email: [tuannm23.dev@gmail.com](mailto:tuannm23.dev@gmail.com)
