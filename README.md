@@ -51,7 +51,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
 ---
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MinhTuanK17/MinhTuanK17/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Minh-TuanDev/Minh-TuanDev/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
